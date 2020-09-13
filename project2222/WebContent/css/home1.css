@@ -1,0 +1,244 @@
+.uppersection{
+	height: 50px;
+	background-color: #4082ed;
+}		
+.colorr{
+	color: white;
+	line-height: 30px;
+}
+.login{
+	background-color: 	#e81247;
+	color: white;
+	margin-left: 100px;
+}
+.licolor{
+	background-color:lightgray !important;
+}
+.login:hover{
+	color: white !important;
+}
+.linehe{
+	margin-top:-10px;
+}
+.login1{
+	background-color: #04dff7;
+	color: white;
+}
+.login1:hover{
+	color: white !important;
+}
+.electro{
+	height: auto;
+}
+.fontss{
+font-family: 'Acme', sans-serif;
+}
+.image{
+	margin-left: 20px;
+}
+.ele{
+	color: #f71804;
+	font-family: italian;
+	
+}
+.Search{
+	width: 500px !important;
+	height: 45px !important;
+	margin-top:8px;
+}
+.serach{
+	margin-top:25px !important;
+	background-color: #f71804 !important;
+	color: white;
+	border-radius: 0px !important;
+}
+.serach:hover{
+	color: white !important;
+}
+.cartt{
+	font-size: 30px !important;
+	color: white !important;
+	line-height: 50px !important;
+	margin-left: 4px; 
+}
+.cartdiv{
+
+height: 50px;
+width: 50px;
+background-color: black;
+margin-top: 20px;
+}
+.active{
+	margin-left: 200px;
+}
+ul li{
+	margin-left: 50px;
+}
+ul li a{
+	font-family: italian;
+	font-size: 20px;
+}
+
+.carimage{
+	width: 100% !important;
+	padding-left: 0px !important;
+	margin-left: 0px !important;
+}
+.captionn{
+	height: 300px;
+	background-color: rgba(0,0,0,0.4);
+margin-bottom: 100px;
+/*margin-right: 50px !important;
+*/width: 60%;
+padding-right: 0px;
+padding-left: 0px;	
+/*box-sizing: border-box !important;*/
+padding: 50px !important;
+}
+.product{
+	margin-top: 20px;
+	font-family: sans-serif;
+	font-size: 50px;
+	text-shadow: 5px 6px 5px lightgray;
+}
+.brand{
+	margin-top: 50px !important;
+	font-family: italic;
+	margin-bottom: 50px;
+}
+.mobile{
+	height: auto !important;
+}
+.botimage{
+	margin-bottom: 50px !important;
+}
+.row1{
+	/*border: 1px solid black;*/
+	box-shadow: 0px 0px 10px gray;
+}
+.row2{
+	/*border: 1px solid black;*/
+	box-shadow: 0px 0px 10px gray;
+margin-top: 20px;
+}
+.row3{
+	background-color:#f71804; 
+margin-top: 20px;
+}
+.extra{
+position: relative;
+	font-size: 40px;
+	font-weight: bolder;	
+	transform: rotate(300deg);
+	margin-top: -150px;
+	margin-left: 60px;
+	width: 500px !important;
+
+}
+.summer{
+	color: white;font-size: 50px;margin-top: 100px !important;
+	margin-left: 30px;
+}
+.cartbutton{
+	width: 100% !important;
+	background-color: #4082ed !important;
+	height: 50px;
+	color: white;
+	font-size: 20px !important;
+	line-height: 35px !important;
+	box-shadow: 4px 4px 10px gray;
+transition: .5s;
+}
+.cartbutton:hover{
+	background-color: black !important;
+	color: white !important;
+}
+.cartbutton:hover{
+	color: white !important;
+}
+.thumbnail{
+	border: 0px !important;
+	position: relative;
+}
+.view{
+	background-color: #4082ed !important;
+	position: absolute;
+	top: 0% !important;
+	left: 25% !important;
+z-index: 9999;
+opacity: 0;
+transition: .5s;
+width: 50%;
+}
+.thumbnail:hover .view{
+	opacity: 1;
+	top: 45% !important;
+	background-color: rgba(24, 99, 174, 0.6);
+}
+.backimage{
+	background-image: url(../images/bg.jpg) !important;
+	height: 500px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	margin-top: 50px;
+}
+.Headphone{
+	background-color: white;
+	margin-top: 100px;
+}
+.headimage{
+	height: 250px;margin-left: -70px;margin-top: 50px;
+}
+.modal-content{
+	border: 10px solid  #4082ed !important;
+}
+.loc{
+	margin-right: 100px;
+	color: white;
+}
+.loc:hover{
+	color: white !important;
+}
+.special{
+	height: auto;
+
+}
+.special-grids{
+	margin:4em 0 0 0;
+}
+.w3-agileits-special-grid-info{
+    position: relative;
+    overflow: hidden;
+    padding: .5em;
+    margin: 0 .5em;
+    border: solid 5px #ececec;
+}
+.w3-agileits-special-grid-info img{
+	width:100%;
+}
+.agile-special-grid-text h5{
+    color: #2f2f2f;
+    font-size: 1em;
+    margin: 1em 0 0 0;
+    line-height: 1.4em;
+    font-weight: 700;
+}
+.agile-special-grid-text p{
+    color: #f44336;
+    font-size: 2em;
+    margin: 1em 0 0 0;
+    font-weight: 700;
+}
+.agile-special-grid-text p del{
+    color: #999999;
+    font-weight: 100;
+}
+.owl-theme .owl-controls {
+    margin-top: 30px !important;
+}
+
+  .pad{
+    padding-left: 0px !important;
+  padding-right: 0px !important;
+  }

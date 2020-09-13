@@ -1,0 +1,37 @@
+		
+.logo{
+	height: auto;
+	background-color: yellow;
+
+}
+.names{
+	font-size: 50px;
+	font-weight: bolder;
+	color: black;
+	text-transform: capitalize;
+	font-family: cursive;
+}
+.nav-links{
+	margin-left: 40px !important;
+}
+.img-size{
+	height: 300px !important;
+	width: auto !important;
+}
+
+.seller{
+
+  font-size: 50px ;
+  color: #42f49b;
+  text-transform:uppercase !important;
+  text-shadow: 5px 5px 10px green;
+  font-family:cursive;
+  font-weight: bolder;
+}
+.login{
+  color: white;margin-left: -200px;
+}
+.register{
+
+background-color: black;color: white
+}

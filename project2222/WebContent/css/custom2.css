@@ -1,0 +1,75 @@
+	.logo{
+	height: auto;
+	background-color: yellow;
+
+}
+.names{
+	font-size: 50px;
+	font-weight: bolder;
+	color: black;
+	text-transform: capitalize;
+	font-family: cursive;
+}
+.nav-links{
+	margin-left: 40px !important;
+}
+.soft{
+	font-size: 50px;
+	color: #f44265;
+font-family: 'Anton', sans-serif;
+text-transform: capitalize;
+word-spacing: 2px;
+margin-bottom: 30px;
+}
+.img-size{
+  height: 300px !important;
+  width: auto !important;
+}
+.div1{
+	position: relative;
+}
+.div2{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	margin: 0px;
+	padding: 0px;
+	height: 0px;
+	background-color: rgba(0, 0, 0, 0.8);
+	width: 100%;
+	transition: 1s;
+	overflow: hidden;
+}
+.div1:hover .div2{
+	height: 100%;
+
+}
+.details{
+	margin-left: 65px;background-color:#f44265 ;color: white;text-transform: capitalize;
+}
+.book{
+	text-transform: capitalize;line-height: 30px; color: floralwhite
+}
+.div11{
+	position: relative;
+}
+.div12{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	margin: 0px;
+	padding: 0px;
+	height: 100%;
+	background-color: rgba(0, 0, 0, 0.8);
+	width: 0px;
+	transition: 1s;
+	overflow: hidden;
+}
+.div11:hover .div12{
+	width: 100%;
+}
+.details:hover{
+	color: white !important;
+
+
+}

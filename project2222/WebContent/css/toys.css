@@ -1,0 +1,65 @@
+	.logo{
+	height: auto;
+	background-color: yellow;
+
+}
+.names{
+	font-size: 50px;
+	font-weight: bolder;
+	color: black;
+	text-transform: capitalize;
+	font-family: cursive;
+}
+.nav-links{
+	margin-left: 40px !important;
+}
+.soft{
+	font-size: 50px;
+	color: #f44265;
+font-family: 'Anton', sans-serif;
+text-transform: capitalize;
+word-spacing: 2px;
+margin-bottom: 30px;
+}
+.div1{
+  position: relative;
+transition: .5s;
+}
+.div2{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  height: 0px;
+  width: 100%;
+
+  transition: .5s;
+overflow: hidden;
+}
+
+.div1:hover .div2{
+  height: 50%;
+border-bottom: 5px solid #f44265;
+  background-color: rgba(0, 0, 0, 0.8);
+}
+.div11{
+  position: relative;
+}
+.div12{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  height: 100%;
+  width: 0px;
+   transition: .5s;
+overflow: hidden;
+
+}
+.img-size{
+  height: 300px !important;
+  width: auto !important;
+}
+.div11:hover .div12{
+  width:  50%;
+border-right:  5px solid #f44265;
+  background-color: rgba(0, 0, 0, 0.8);
+}
